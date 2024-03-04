@@ -11,6 +11,8 @@
 - LinkedIn: [Router X](https://www.linkedin.com/company/router-x/mycompany/)
 - Instagram: [@routerxconsultoria](https://www.instagram.com/routerxconsultoria/)
 - E-mail: [contato@routerx.net.br](mailto:contato@routerx.net.br)
+- Business phone: [+55 49 99998-7750](https://api.whatsapp.com/send?1=pt_BR&phone=5549999987750)
+- Duty: [+55 49 99998-7750](https://api.whatsapp.com/send?1=pt_BR&phone=5549999987750)
 
 <h2>Business Address</h2>
 
