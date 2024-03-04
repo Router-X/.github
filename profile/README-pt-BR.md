@@ -11,6 +11,8 @@
 - LinkedIn: [Router X](https://www.linkedin.com/company/router-x/mycompany/)
 - Instagram: [@routerxconsultoria](https://www.instagram.com/routerxconsultoria/)
 - E-mail: [contato@routerx.net.br](mailto:contato@routerx.net.br)
+- Telefone comercial: [+55 49 99998-7750](https://api.whatsapp.com/send?1=pt_BR&phone=5549999987750)
+- Plantão: [+55 49 99998-7750](https://api.whatsapp.com/send?1=pt_BR&phone=5549999987750)
 
 <h2>Endereço Comercial</h2>
 
