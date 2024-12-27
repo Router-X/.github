@@ -22,3 +22,5 @@
 - Address: R. Uruguai, 1291-D - Saic, 89802-165
 
 [Google maps](https://www.google.com/maps/place/Centro+Comercial+Antonio+Andreis/@-27.1106764,-52.6268769,18z/data=!4m6!3m5!1s0x94e4b5a2edf4c9d7:0xc6f86bde9245a7ee!8m2!3d-27.1108562!4d-52.6259609!16s%2Fg%2F11lcbj_3l9?entry=ttu)
+
+<div align="center"><h5><a href="https://github.com/arthurlunkes" target="_blank">By Arthur Lunkes@2024</a></h5></div>
